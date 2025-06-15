@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lithium.Prelude", "Lithium.Prelude\Lithium.Prelude.csproj", "{67D74465-D123-43D4-9365-4F4075EF7BF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lithium.Lang", "Lithium.Lang\Lithium.Lang.csproj", "{BE80A588-E309-402D-A379-21F53FB9732B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lofi.Supplier", "Lofi.Supplier\Lofi.Supplier.csproj", "{736874AE-13C6-4B60-8AD1-860D8E58D1BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{67D74465-D123-43D4-9365-4F4075EF7BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67D74465-D123-43D4-9365-4F4075EF7BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67D74465-D123-43D4-9365-4F4075EF7BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE80A588-E309-402D-A379-21F53FB9732B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE80A588-E309-402D-A379-21F53FB9732B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE80A588-E309-402D-A379-21F53FB9732B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE80A588-E309-402D-A379-21F53FB9732B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736874AE-13C6-4B60-8AD1-860D8E58D1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736874AE-13C6-4B60-8AD1-860D8E58D1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736874AE-13C6-4B60-8AD1-860D8E58D1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736874AE-13C6-4B60-8AD1-860D8E58D1BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
